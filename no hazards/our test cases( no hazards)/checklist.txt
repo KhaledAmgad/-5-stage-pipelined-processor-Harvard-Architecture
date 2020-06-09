@@ -1,0 +1,26 @@
+
+NOP		any
+RET		2
+NOT		4
+INC		1
+DEC		1
+OUT		1
+IN		3
+SWAP	2
+ADD		1
+SUB		4
+AND		3
+OR		3
+PUSH	3
+POP		3
+JZ		1
+JMP		1
+CALL	2
+SHL		4
+SHR		4
+LDM		1
+IADD	4
+LDD		2
+STD		2
+carryTest 	5
+pipeTest 	6

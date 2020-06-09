@@ -1,0 +1,4 @@
+// memory data file (do not edit the following line - required for mem load use)
+// instance=/cpu/RegFIle/ram
+// format=hex addressradix=h dataradix=h version=1.0 wordsperline=8
+@0 00000000 00000006 FFFFFFEE 00000000 00000000 00000000 00000000 00000000
